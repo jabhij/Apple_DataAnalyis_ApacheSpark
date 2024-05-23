@@ -1,7 +1,17 @@
 # Apple Data Analysis using Apache Spark
 ### (End-to-end Data Engineering and ML Project)
 
-Analyzed Apple's dataset to check how many people bought Airpods after buying a Mac or iPhone. Thereafter, using ML and predictive analytics to check future outcomes.
+Analyzed Apple's dataset to check how many people bought Airpods after buying a Mac or iPhone. Thereafter, using ML and predictive analytics to check future outcomes. Therefore, as we can see this project has 3 phases-
+
+#### Phase 1 | Data Analysis
+  - Data Cleaning and Preprocessing
+  - Exploratory Data Analysis
+    
+#### Phase 2 | Data Engeenering
+  - Development of an end-to-end ETL/ELT data pipeline
+    
+#### Phase 3 | Machine Learning
+  - Application of Statistical and mathematical models (Predictive Analytics)
 
 ## What I've learned?
 I've learned in-depth application of different concepts and techniques like-
